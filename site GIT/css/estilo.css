@@ -1,0 +1,19 @@
+@ charset "UTF-8";
+
+/* cor do fundo do site */
+html{ background-color: aliceblue;}
+
+/* cor do corpo do site */
+body{ 
+    background-color: #baf4f4;
+    font-size-adjust: 100%;
+}
+/* tamanho do conteúdo do site */
+header,article,aside,footer{
+    background-color: rgba(26, 193, 244, 0.99);
+    margin: 5px;
+}
+nav{
+    background-color: rgba(26, 193, 244, 0.99);
+    
+}
